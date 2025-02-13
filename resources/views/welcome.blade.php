@@ -21,7 +21,7 @@
             <!---Marca navegación-->
             <a class="navbar-brand" href="{{route('panel')}}">
                 <img src="{{ asset('assets/img/icon.png') }}" alt="Logo" width="30" height="30" class="d-inline-block align-text-top">
-                Sistema de venta
+                Sistema de venta XD
             </a>
             <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
                 <span class="navbar-toggler-icon"></span>
